@@ -11,7 +11,7 @@
       <th>Mouayed Ibrahim</th>
     </tr>
     <tr>
-      <td>Mouayed Ibrahim</td>
+      <td>Introduction</td>
       <td>Hello, I am Junior at George Mason University studying Information Technology with a concentration in Cybersecurity. I am seeking opportunities to gain experience in cybersecurity.</td>
     </tr>
     <tr>

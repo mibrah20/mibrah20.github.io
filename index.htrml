@@ -8,7 +8,7 @@
   <table border="1">
     <tr>
       <th>Name</th>
-      <th>Introduction</th>
+      <th>Mouayed Ibrahim</th>
     </tr>
     <tr>
       <td>Mouayed Ibrahim</td>
